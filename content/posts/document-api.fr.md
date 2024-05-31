@@ -6,13 +6,16 @@ featured = "pic02.jpg"
 featuredalt = ""
 featuredpath = "date"
 linktitle = ""
-slug = "Introduction aux modeles Hugo"
-title = "Introduction aux modèles (Hu)go"
+slug = "How can I create a good documentation?"
+title = "How can I create a good documentation?
 type = ["posts","post"]
 [ author ]
-  name = "NOtes"
+  name = "Notes"   
 +++
 
+## All content below are notes extracted from course about API documentation. It is available on:   
+
+[OPEN SOURCE TECHNICAL DOCUMENTATION ESSENTIALS (LFC111)](https://trainingportal.linuxfoundation.org/courses/open-source-technical-documentation-essentials-lfc111)
 
 
 An API or tool that is easier to explain is also easier to learn and easier to use.
