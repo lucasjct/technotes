@@ -7,7 +7,7 @@ featuredalt = ""
 featuredpath = "date"
 linktitle = ""
 slug = "How can I create a good documentation?"
-title = "How can I create a good documentation?
+title = "How can I create a good documentation?"
 type = ["posts","post"]
 [ author ]
   name = "Notes"   
@@ -15,7 +15,7 @@ type = ["posts","post"]
 
 ## All content below are notes extracted from course about API documentation. It is available on:   
 
-[OPEN SOURCE TECHNICAL DOCUMENTATION ESSENTIALS (LFC111)](https://trainingportal.linuxfoundation.org/courses/open-source-technical-documentation-essentials-lfc111)
+[OPEN SOURCE TECHNICAL DOCUMENTATION ESSENTIALS (LFC111)](https://trainingportal.linuxfoundation.org/courses/open-source-technical-documentation-essentials-lfc111)  
 
 
 An API or tool that is easier to explain is also easier to learn and easier to use.
@@ -37,11 +37,11 @@ Maybe zora needs this: [conreibuition policies] Your contribution policies shoul
 
 essential for docs
 
-A detailed element reference;
-A high-level technical overview;
-Instructions for installation or access;
-Requirements for authorization and authentication;
-A “Hello World” or "Getting Started" example.  
+* A detailed element reference;
+* A high-level technical overview;
+* Instructions for installation or access;
+* Requirements for authorization and authentication;
+* A “Hello World” or "Getting Started" example.  
 
 
 sections (must-haves):
