@@ -30,10 +30,10 @@ __User-Oriented Design__
  
 Essential keywords:
  
-__Who__ is the intended audience for the information;
-__What__ background they are expected to have;
-__Where__ they can go to get that background;
-__How__ you expect them to use the documentation.  
+__Who__ is the intended audience for the information;  
+__What__ background they are expected to have;  
+__Where__ they can go to get that background;  
+__How__ you expect them to use the documentation.    
 
 
 essential for docs:  
@@ -104,16 +104,16 @@ _[Installation or access guide] - This guide should include everything needed fo
 
 Checklist for ensure that the documentation has been succefull:    
 
-[ ] - All user-level elements and features included.  
-[ ] - Accurate content.  
-[ ] - All details are correct.  
-[ ] - Adequate description.     
-[ ] - Details are unambiguous and placed in context.  
-[ ] - Discoverability.  
-[ ] - Readers can find the information they need.   
+- [ ] All user-level elements and features included.  
+- [ ] Accurate content.  
+- [ ] All details are correct.  
+- [ ] Adequate description.     
+- [ ] Details are unambiguous and placed in context.  
+- [ ] Discoverability.  
+- [ ] Readers can find the information they need.   
  
 
-Essencial characteristics
+### Essencial characteristics
 
 
  * A clearly-defined user layer (public API elements).
